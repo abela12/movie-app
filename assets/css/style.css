@@ -166,3 +166,15 @@ header .navbar a:hover {
   color: var(--primary-color);
   border-bottom: 4px solid var(--primary-color);
 }
+
+@media (max-width:700px){
+  #menu-bar{
+    display: initial;
+  }
+  .movie{
+    width: 80%;
+  }
+  .navbar{
+    display: none;
+  }
+}
