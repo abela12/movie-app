@@ -28,4 +28,5 @@ git clone https://github.com/abela12/movie-app.git
 - HTML
 - CSS
 - JavaScript
+- The Movie DB API
 
