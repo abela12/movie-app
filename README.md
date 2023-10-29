@@ -1,7 +1,7 @@
 # 🎖️ Movie App
 
 
-## 🚀 About Movie App
+## 🚀 About List App
 
 
 JavaScript Clone | Movie App is a popular, latest movies and episodes.<br>
